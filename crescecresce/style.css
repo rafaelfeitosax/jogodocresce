@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: no-repeat center/100% url( "./img/back.jpg");
+    color: white;
+}
+
+.game-container {
+    margin-top: 50px;
+}
+
+img {
+    width: 100px;
+    transition: width 0.1s, height 0.1s;
+}
